@@ -1,0 +1,93 @@
+body {
+  background-color: #999;
+}
+/* Style pour le header */
+header {
+  background-color: #09518b;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Style pour le titre principal */
+h1 {
+  color: #c55b1d;
+}
+
+/* Style pour le menu de navigation */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #fffefe;
+}
+
+/* Style pour les titres de section */
+h2, h3 {
+  color: #961b1b;
+}
+
+/* Style pour les images */
+figure {
+  margin: 120px;
+  text-align: center;
+}
+
+figcaption {
+  color: #999;
+}
+
+/* Style pour le lien de présentation du jeu */
+p a {
+  color: #2e85e2;
+  text-decoration: none;
+}
+
+p a:hover {
+  text-decoration: underline;
+}
+h3 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #ffffff;
+  border: 1px solid #8a1b1b;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+ul li a:hover {
+  background-color: #333;
+  color: #fff;
+}
+
+header {
+ text-align: center;
+  border: 1px solid #000000;
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+h2 {
+  text-align: center;
+}
+footer {
+  text-align-last: center;
+  align-self: center;
+}
